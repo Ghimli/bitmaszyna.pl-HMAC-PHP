@@ -1,0 +1,1 @@
+# bitmaszyna.pl-HMAC-PHP
